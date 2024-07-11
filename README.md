@@ -34,7 +34,7 @@ This project focuses on developing a deep learning model for classifying various
     ```
 
 ### Dataset
-The project utilizes the ‘Fruits 360’ dataset, a comprehensive collection of fruit images available for public use. This dataset is sourced from Kaggle and includes a wide variety of fruit images, making it ideal for training and validating the image classification model.
+The ‘Fruits 360’ dataset was employed for this project, containing high-quality images of various fruits categorized into multiple classes. The dataset can be accessed from Kaggle [here](https://www.kaggle.com/datasets/moltean/fruits).
 
 ## Contents
 - `Advanced Deep Learning for Fruit-opt_project.ipynb`: Jupyter Notebook for the project.
@@ -65,7 +65,7 @@ The high accuracy of the models indicates their effectiveness in fruit classific
 This project successfully demonstrates the application of deep learning in fruit classification. The developed models, leveraging advanced CNN architectures, provide a robust solution for accurate and efficient image classification. These models have potential applications in various sectors, including agricultural technology and food quality inspection. Future work may explore further optimization techniques and deployment strategies for real-world applications.
 
 ## Authors
-- Saroj Raj Amadala
+- Saroj Raj Amadala - [LinkedIn Profile](https://www.linkedin.com/in/saroj-raj-22831198/)
 - Srikar Reddy Madireddy
 
 ## Version History
